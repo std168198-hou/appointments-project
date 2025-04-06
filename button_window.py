@@ -3,7 +3,7 @@ import tkinter as tk
 # Main Window
 window = tk.Tk()
 window.title("My Buttons Window")
-
+#
 # Buttons
 button1 = tk.Button(window, text="Appointment")
 button2 = tk.Button(window, text="Search")
